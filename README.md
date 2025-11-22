@@ -1,6 +1,6 @@
 <div align="center">
 
-## secuprompt — Protect your AI from Prompt Injection
+## SecuPrompt — Protect your AI from Prompt Injection
 
 LLM-ready sanitizer that blocks jailbreaks, prompt injections, RAG poisoning, role overrides, and Unicode exploits before they reach your model.
 
@@ -16,9 +16,9 @@ LLM-ready sanitizer that blocks jailbreaks, prompt injections, RAG poisoning, ro
 
 ---
 
-## Why secuprompt Exists
+## Why SecuPrompt Exists
 
-LLMs are new attack surfaces. Prompt injections, DAN role-play, poisoned RAG context, and Unicode tricks bypass naive filters and opaque vendor guardrails. secuprompt is a deterministic firewall that scores, explains, and reconstructs safe prompts so you can trust what reaches your model.
+LLMs are new attack surfaces. Prompt injections, DAN role-play, poisoned RAG context, and Unicode tricks bypass naive filters and opaque vendor guardrails. SecuPrompt is a deterministic firewall that scores, explains, and reconstructs safe prompts so you can trust what reaches your model.
 
 ---
 

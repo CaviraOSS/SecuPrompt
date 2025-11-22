@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" height="auto" alt="image" src="https://github.com/user-attachments/assets/6774f14b-d626-4f82-9b86-ea246f5cee5c" />
+
 ## SecuPrompt — Protect your AI from Prompt Injection
 
 LLM-ready sanitizer that blocks jailbreaks, prompt injections, RAG poisoning, role overrides, and Unicode exploits before they reach your model.

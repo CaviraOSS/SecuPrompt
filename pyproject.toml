@@ -1,0 +1,37 @@
+[project]
+name = "secuprompt"
+version = "0.1.0"
+description = "Protect your AI from Prompt Injection"
+requires-python = ">=3.9"
+authors = [{name = "nullure"}]
+license = {text = "Apache-2.0"}
+readme = "README.md"
+dependencies = []
+keywords = [
+  "llm",
+  "prompt injection",
+  "jailbreak",
+  "rag poisoning",
+  "security",
+  "guardrail",
+  "sanitization",
+  "unicode",
+  "dan",
+  "context filter",
+  "langchain",
+  "openai",
+  "anthropic",
+  "ollama",
+  "ai firewall",
+  "prompt firewall",
+  "safety",
+  "prompt security"
+]
+
+[build-system]
+requires = ["setuptools>=65", "wheel"]
+build-backend = "setuptools.build_meta"
+
+
+
+

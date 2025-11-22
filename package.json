@@ -1,0 +1,41 @@
+{
+  "name": "secuprompt",
+  "version": "1.0.0",
+  "description": "Protect your AI from Prompt Injection",
+  "main": "dist/index.js",
+  "git": "https://github.com/caviraoss/secuprompt.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -p tsconfig.json"
+  },
+  "author": "nullure",
+  "license": "Apache-2.0",
+  "keywords": [
+    "llm",
+    "prompt injection",
+    "jailbreak",
+    "rag poisoning",
+    "security",
+    "guardrail",
+    "sanitization",
+    "langchain",
+    "openai",
+    "anthropic",
+    "ollama",
+    "unicode",
+    "dan",
+    "context filter",
+    "ai firewall",
+    "prompt firewall",
+    "safety",
+    "prompt security",
+    "llm firewall",
+    "secure prompts",
+    "secuprompt"
+  ],
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
